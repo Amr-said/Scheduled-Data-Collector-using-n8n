@@ -1,4 +1,4 @@
-# SScheduled Data Collector using n8n
+# Scheduled Data Collector using n8n
 This project is an automated workflow built with **n8n** to fetch, validate, and store data on a regular schedule into separate Google Sheets.
 
 ## Workflow Overview
